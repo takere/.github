@@ -4,7 +4,12 @@
 <p align='center'>A no-code platform for the development of mHealth applications based on care plans</p>
 <p align="center">
 	<a href="https://github.com/takere/.github/blob/main/LICENSE"><img src="https://img.shields.io/github/license/takere/.github" alt="License"></a>
-	
+</p>
+
+<p align="center">
+	<a href='https://github.com/williamniemiec/williamniemiec/blob/main/publications/2022/%5BTCC%5D%20Takere.pdf'><img alt='Read full publication' src='https://shields.io/badge/PDF-read%20full%20publication-red?logo=adobeacrobatreader&style=for-the-badge' width=250 /></a>
+</p>
+
 <hr>
 
 
